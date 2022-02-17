@@ -2,7 +2,7 @@
 "self": false,
 "autoread": false,
 "autoketik": false,
-"autovn": false,
+"autovn": true,
 "OwnerNumber": "6282393072006",
 "OwnerName": "Atsair Ganss",
 "BotName": "Atsair Botz",
